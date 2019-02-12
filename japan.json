@@ -1,0 +1,32 @@
+{
+   
+      "node_name":"D",
+      "node_ip":"127.0.0.1",
+      "node_port":"20304",
+      "geo_tag":"japan",
+      "log_file":"log.txt",
+      "content_ip":"127.0.0.1",
+      "content_port":"20308",
+      "links":[
+         {
+            "node_ip":"127.0.0.1",
+            "node_port":"20302",
+            "geo_tag":"asia",
+            "link_delay":"7"
+         },
+         {
+            "node_ip":"127.0.0.1",
+            "node_port":"20303",
+            "geo_tag":"australia",
+            "link_delay":"5"
+         }
+      ]
+   
+}
+
+
+
+
+
+
+
